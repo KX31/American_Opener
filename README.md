@@ -1,5 +1,8 @@
-# Lockpicking
+# American_Opener
 
-This Repo has a few lockpicking related things and project I made over the years.
-Some are brand new, some are inspired ... each folder will have its own "readme" with proper attribution.
+This openner is heavily inspired from Dev's Fire Plug: https://github.com/deviantollam/FirePlug.git
 
+This one is small so it fit anywhere, but needs a pick or 1/4" hex driver to activate.
+3D printed in PLA will last for dozens (if not hundreds) of openings.
+
+Print vertical with no support 👍
